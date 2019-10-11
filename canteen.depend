@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545742587 source:c:\users\dell\desktop\project\canteen\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"windows.h"
+
