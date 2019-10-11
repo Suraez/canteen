@@ -9,6 +9,7 @@ void gotoxy (int ,int );
 class student
 {
     string name;
+    string name2;
     string address;
     string faculty;
     string phone_no;
